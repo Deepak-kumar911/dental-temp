@@ -188,7 +188,7 @@ export default function Home() {
               <div className="text-gray-500 dark:text-gray-400 font-medium">
                 <p>+880 1457-9999</p>
                 <p>support@dentalcare.com</p>
-                <a href="#appointment" className="text-blue-500 underline ">Book appointment</a>
+                <a href="#appointment" className="text-blue-500 underline">Book appointment</a>
               </div>
             </div>
           </div>
